@@ -1,77 +1,70 @@
-# 👋 Hi there, I'm Arpit Sharma
+# Hi there 👋, I'm Arpit Sharma  
 
-🎓 **B.Tech CSE student at IIEST Shibpur**  
-💻 **Full Stack Developer | MERN Stack | AI/ML & Embedded Systems Enthusiast**
-
-I love building scalable, real-world applications — from AI-driven systems to secure web apps and backend microservices.  
-Currently exploring distributed systems, Kubernetes, and applied AI.
+## 🚀 About Me  
+B.Tech CSE student at IIEST Shibpur | MERN Stack Developer | AI & Computer Vision Enthusiast  
+I love building web apps and deep learning projects that bridge technology with real-world impact. Currently exploring scalable AI deployments and Kubernetes-based microservices.
 
 ---
 
-## 🧠 About Me
-- 🌱 Currently learning **microservices architecture**, **containerization**, and **advanced ML**
-- 💬 Ask me about **MERN stack**, **Node.js**, **Embedded C**, and **System Design**
-- 🧩 I enjoy solving complex backend challenges and optimizing performance
-- ⚡ Fun fact: I believe clean code is an art — not just a practice!
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies  
 
 **Languages:**  
-`C` `C++` `Python` `JavaScript` `TypeScript`
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Libraries:**  
-`React.js` `Node.js` `Express.js` `Next.js` `TensorFlow.js` `Streamlit` `PyTorch`
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **Databases:**  
-`MongoDB` `MySQL`
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Styling:**  
-`TailwindCSS` `Chakra UI` `CSS`
-
-**Tools & Platforms:**  
-`Git` `GitHub` `VS Code` `Linux` `Docker` `Kubernetes`
-
-**AI & ML:**  
-`OpenCV` `scikit-learn` `MediaPipe` `PyTorch` `TensorFlow`
+**DevOps & Tools:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 Featured Projects
+## 📂 Featured Projects  
 
 | Project | Description | Tech Stack | Repo | Live Demo |
-|----------|--------------|------------|------|------------|
-| **🔐 Kube Credential Microservices** | Microservices-based credential issuance and verification platform with Kubernetes, Docker & TypeScript backend. | Node.js, TypeScript, MongoDB, Docker, Kubernetes | [Repo](https://github.com/Whitedevil71/kube-credential-microservices) | [Live](https://kube-credential-microservices.vercel.app) |
-| **💬 Grove Chat** | Real-time chat app with authentication, group chats, and message persistence. | MERN Stack, Socket.io, Chakra UI | [Repo](https://github.com/Whitedevil71/Grove-Chat) | [Live](https://grovechat.netlify.app) |
-| **😊 Smile Please** | AI-powered face emotion detection web app with camera-based analysis. | Node.js, Express.js, TensorFlow.js | [Repo](https://github.com/Whitedevil71/Smile-Please) | [Live](https://smile-please.onrender.com) |
-| **🎥 Video Proctoring System** | AI-based interview monitoring system with face, focus, and object detection to ensure integrity. | React, Node.js, TensorFlow.js, MongoDB | [Repo](https://github.com/Whitedevil71/video--proctoring-app) | [Live](https://focus-object-detection-in-video-int-gray.vercel.app/) |
-| **🩺 FundusNext** | Real-Time Glaucoma Detection using ConvNeXtTiny CNN model with 89.6% accuracy and 0.9692 AUC. | Python, PyTorch, Streamlit, Torchvision, NumPy | [Repo](https://github.com/Whitedevil71/FundusNext) | [Live](https://fundusnext101.streamlit.app/) |
-| **💸 Secure P2P Payment App** | Secure user-to-user money transfer app ensuring encrypted and safe transactions. | Express.js, Node.js, MongoDB, Mongoose | [Repo (Private)](https://github.com/Whitedevil71) | — |
+| ------- | ------------ | ----------- | ---- | ---------- |
+| **FundusNext** | Real-Time Glaucoma Detection using ConvNeXtTiny trained on EYEPA CS dataset. Achieved **89.61% accuracy** and **AUC 0.9692**. | Python · PyTorch · Streamlit · Torchvision · NumPy | [Repo](https://github.com/Whitedevil71/FundusNext) | [fundusnext101.streamlit.app](https://fundusnext101.streamlit.app/) |
+| **Brain Tumor Detection using YOLO** | Deep learning model for tumor detection in MRI/CT scans using YOLOv8, with visualization and inference pipeline. | Python · YOLOv8 · OpenCV · PyTorch | [Repo](https://github.com/Whitedevil71/Brain-Tumor-Detection-using-YOLO) | — |
+| **Kube Credential Microservices** | Credential verification platform using Docker, Kubernetes, and Node.js microservices. | Node.js · TypeScript · MongoDB · Docker · Kubernetes | [Repo](https://github.com/Whitedevil71/kube-credential-microservices) | [kube-credential-microservices.vercel.app](https://kube-credential-microservices.vercel.app) |
+| **GroveChat** | Real-time chat app with private and group chats, built on MERN stack and Socket.io. | React · Node.js · Express · MongoDB · Socket.io | [Repo](https://github.com/Whitedevil71/Grove-Chat) | [grovechat.netlify.app](https://grovechat.netlify.app) |
+| **Smile Please** | AI-based app for positive emotion tracking and user engagement through photos. | MERN · Node.js · Express.js · MongoDB | [Repo](https://github.com/Whitedevil71/Smile-Please) | [smile-please.onrender.com](https://smile-please.onrender.com) |
+| **Payments App** | Secure peer-to-peer payments application for real-time money transfer. | Node.js · Express · MongoDB · React · JWT | [Repo](https://github.com/Whitedevil71/PaymentsApp-Advanced-main) | — |
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whitedevil71&show_icons=true&theme=radical" alt="Arpit's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Whitedevil71&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitedevil71&layout=compact&theme=radical" width="48%"/>
-</p>
+![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whitedevil71&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Whitedevil71&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect With Me
+## 💬 Let’s Connect  
 
-- **Email:** [arpitsharma2511@gmail.com](mailto:arpitsharma2511@gmail.com)
-- **LinkedIn:** [linkedin.com/in/arpitsharma71](https://www.linkedin.com/in/arpitsharma71/)
+- **Email:** [arpitsharma2511@gmail.com](mailto:arpitsharma2511@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/arpitsharma71](https://www.linkedin.com/in/arpitsharma71/)  
 - **GitHub:** [github.com/Whitedevil71](https://github.com/Whitedevil71)
 
-💬 _“Let’s build something amazing together — one commit at a time.”_
-
 ---
 
-⭐ **If you like my work, don’t forget to star my repositories!**
+✨ *Open to collaborating on Full Stack and AI projects — always excited to learn, build, and innovate!*  
